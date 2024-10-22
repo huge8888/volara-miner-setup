@@ -26,7 +26,7 @@ show_logo() {
   echo -e "${BLUE}${BOLD}"
   echo "============================="
   echo "|  Welcome to Volara-Miner  |"
-  echo "|        Setup Script       |"
+  echo "|        Setup by 0xHUGE    |"
   echo "============================="
   echo -e "${RESET}"
 }
