@@ -11,3 +11,6 @@ cd volara-miner-setup
 chmod +x volara_miner.sh
 
 ./volara_miner.sh
+
+
+https://volara.xyz/
